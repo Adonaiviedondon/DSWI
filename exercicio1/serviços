@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="pt-br"></html>
+<html lang="pt-br">
+
+</html>
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,31 +10,37 @@
     <title>missão</title>
     <link rel="icon" href="favicon/favicon.ico" type="imagem.ico">
 </head>
+
 <body>
     <header>
-    <nav>
-       <a href="home.html">home</a>
-       <a href="missao.html">missao</a>
-       <a href="produtos.html">produtos</a>
-       <a href="serviços.html">serviços</a>
-       <a href="sobre.html">sobre</a>
-    </nav>
-<main>
-    <h1>serviços</h1>
-    <section>
-        <h2>Desenvolvimento de produtos</h2>
-        <p>Eiusmod eiusmod amet do enim ut amet. Non dolor tempor mollit incididunt aliquip. Amet dolore ipsum qui
-            culpa commodo nostrud laborum commodo labore ad.</p>
-    </section>
-    <section>
-        <h2>Fabricação customizada</h2>
-        <p>In ex occaecat pariatur magna exercitation. Eu reprehenderit officia quis laboris laborum deserunt
-            reprehenderit ad. Mollit sit sint magna aliqua sunt ullamco ut non in commodo consectetur ad. Culpa laboris
-            ipsum laborum mollit tempor aliquip ipsum amet. Non eu adipisicing dolor commodo laborum dolor veniam
-            qui cupidatat nulla non. Exercitation dolor velit cillum deserunt exercitation id. Enim elit duis aliquip sint
-            excepteur Lorem.</p>
-    </section>
-    <footer>ACME produtos e serviços. Todos os direitos reservados.</footer>
-  </main>
- </body>
-</html>
+        <nav>
+            <a href="home.html">home</a>
+            <a href="missao.html">missao</a>
+            <a href="produtos.html">produtos</a>
+            <a href="serviços.html">serviços</a>
+            <a href="sobre.html">sobre</a>
+        </nav>
+
+        <body>
+            <h1>serviços</h1>
+            <section>
+                <h2>Desenvolvimento de produtos</h2>
+                <p>Eiusmod eiusmod amet do enim ut amet. Non dolor tempor mollit incididunt aliquip. Amet dolore ipsum
+                    qui
+                    culpa commodo nostrud laborum commodo labore ad.</p>
+            </section>
+            <section>
+                <h2>Fabricação customizada</h2>
+                <p>In ex occaecat pariatur magna exercitation. Eu reprehenderit officia quis laboris laborum deserunt
+                    reprehenderit ad. Mollit sit sint magna aliqua sunt ullamco ut non in commodo consectetur ad. Culpa
+                    laboris
+                    ipsum laborum mollit tempor aliquip ipsum amet. Non eu adipisicing dolor commodo laborum dolor
+                    veniam
+                    qui cupidatat nulla non. Exercitation dolor velit cillum deserunt exercitation id. Enim elit duis
+                    aliquip sint
+                    excepteur Lorem.</p>
+            </section>
+            <footer>ACME produtos e serviços. Todos os direitos reservados.</footer>
+        </body>
+
+        </html>

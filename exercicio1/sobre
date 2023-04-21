@@ -1,5 +1,8 @@
 !DOCTYPE html>
-<html lang="pt-br"></html>
+<html lang="pt-br">
+
+</html>
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,21 +10,24 @@
     <title>ACME - sobre</title>
     <link rel="icon" href="favicon/favicon.ico" type="imagem.ico">
 </head>
+
 <body>
     <header>
-    <nav>
-       <a href="home.html">home</a>
-       <a href="missao.html">missao</a>
-       <a href="produtos.html">produtos</a>
-       <a href="serviços.html">serviços</a>
-       <a href="sobre.html">sobre</a>
-    </nav>
-<main>
-    <h1>ACME</h1>
-    <section>
-        <img src="favicon/favicon.ico" alt="ACME">
-        <p>Enim enim Lorem irure tempor velit eu mollit. Id pariatur laborum et magna nostrud sint quis quis excepteur
-            nostrud et. Cupidatat eiusmod officia consectetur nostrud culpa. Cupidatat do nulla duis ut.</p>
-    </section>
- </body>
+        <nav>
+            <a href="home.html">home</a>
+            <a href="missao.html">missao</a>
+            <a href="produtos.html">produtos</a>
+            <a href="serviços.html">serviços</a>
+            <a href="sobre.html">sobre</a>
+        </nav>
+        <main>
+            <h1>ACME</h1>
+            <section>
+                <img src="favicon/favicon.ico" alt="ACME">
+                <p>Enim enim Lorem irure tempor velit eu mollit. Id pariatur laborum et magna nostrud sint quis quis
+                    excepteur
+                    nostrud et. Cupidatat eiusmod officia consectetur nostrud culpa. Cupidatat do nulla duis ut.</p>
+            </section>
+</body>
+
 </html>

@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="pt-br"></html>
+<html lang="pt-br">
+
+</html>
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,25 +10,27 @@
     <title>Home</title>
     <link rel="icon" href="favicon/favicon.ico" type="imagem.ico">
 </head>
+
 <body>
     <header>
-    <nav>
-       <a href="home.html">home</a>
-       <a href="missao.html">missao</a>
-       <a href="produtos.html">produtos</a>
-       <a href="serviços.html">serviços</a>
-       <a href="sobre.html">sobre</a>
-    </nav>
-</header>
-<main>
-<h1>BEM VINDO A ACNE!</h1>
-</main>
-<p>Aliquip nostrud non sit ullamco in deserunt voluptate irure qui non id voluptate esse. Deserunt officia velit
-    ipsum pariatur minim aute aute deserunt dolore nostrud aliqua. Id sunt laboris voluptate enim reprehenderit
-    consequat Lorem enim. Fugiat consectetur ea proident magna aliquip laborum do quis exercitation dolore
-    tempor ex veniam. Est laborum aute sint sint. Et consequat culpa reprehenderit amet officia est veniam. Irure
-    velit officia magna duis commodo ut labore non exercitation quis do duis Lorem.</p>
-<footer>ACME produtos e serviços. Todos os direitos reservados.</footer>
+        <nav>
+            <a href="home.html">home</a>
+            <a href="missao.html">missao</a>
+            <a href="produtos.html">produtos</a>
+            <a href="serviços.html">serviços</a>
+            <a href="sobre.html">sobre</a>
+        </nav>
+    </header>
+    <main>
+        <h1>BEM VINDO A ACNE!</h1>
+    </main>
+    <p>Aliquip nostrud non sit ullamco in deserunt voluptate irure qui non id voluptate esse. Deserunt officia velit
+        ipsum pariatur minim aute aute deserunt dolore nostrud aliqua. Id sunt laboris voluptate enim reprehenderit
+        consequat Lorem enim. Fugiat consectetur ea proident magna aliquip laborum do quis exercitation dolore
+        tempor ex veniam. Est laborum aute sint sint. Et consequat culpa reprehenderit amet officia est veniam. Irure
+        velit officia magna duis commodo ut labore non exercitation quis do duis Lorem.</p>
+    <footer>ACME produtos e serviços. Todos os direitos reservados.</footer>
 
 </body>
+
 </html>
