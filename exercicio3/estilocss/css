@@ -36,8 +36,8 @@ a:hover {
 
 section {
     text-align: justify;
-    padding: 30px;
-    word-spacing: 5px;
+    padding: 50px;
+    word-spacing: 10px;
     line-height: 1.6;
 }
 
@@ -58,15 +58,15 @@ section h3 {
 
 section p {
     text-align: center;
-    text-indent: 20px;
+    text-indent: 25px;
     word-spacing: normal;
 }
 
 footer {
     text-align: center;
-    text-indent: 20px;
-    padding: 30px;
-    font-weight: 900;
+    text-indent: 25px;
+    padding: 35px;
+    font-weight: 950;
 }
 
 .imagem {
