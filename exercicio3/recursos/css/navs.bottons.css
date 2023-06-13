@@ -1,5 +1,5 @@
 .home {
-    background-color: #F6F1F1;
+    background-color: #f3ecec;
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
     border-bottom-right-radius: 6px;
@@ -12,7 +12,7 @@
     margin-left: 1%;
 }
 .missao { 
-    background-color: #F6F1F1;
+    background-color: #f3ecec;
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
     border-bottom-right-radius: 6px;
@@ -24,7 +24,7 @@
     background-repeat: no-repeat;
 }
 .produtos {
-    background-color: #F6F1F1;
+    background-color: #f3ecec;
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
     border-bottom-right-radius: 6px;
@@ -36,7 +36,7 @@
     background-repeat: no-repeat;
 }
 .servicos {
-    background-color: #F6F1F1;
+    background-color: #f3ecec;
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
     border-bottom-right-radius: 6px;
@@ -48,7 +48,7 @@
     background-repeat: no-repeat;
 }
 .sobre {
-    background-color: #F6F1F1;
+    background-color: #f3ecec;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
     border-bottom-right-radius: 5px;
