@@ -3,10 +3,12 @@
     margin: 0%;
     padding: 0%;
 }
+
 header {
     background-color: #146C94;
     padding-bottom: 1px;
 }
+
 nav a {
     color: #19A7CE;
     font-family: Source Serif Pro, Roboto, sans-serif;
@@ -14,9 +16,11 @@ nav a {
     padding-left: 30px;
     padding-right: 5px;  
 }
+
 body {
     background-color: #F6F1F1;
 }
+
 main {
     color: #00000000;
     font-family: Roboto, Source Serif Pro, sans-serif;
@@ -25,10 +29,12 @@ main {
     margin-top: 3%;
     margin-bottom: 3%;
 }
+
 main p {
     text-indent: 6%;
     margin: 3%;
 }
+
 h1 {
     color: #19A7CE;
     font-family: Source Serif Pro, Roboto, sans-serif;
@@ -36,6 +42,7 @@ h1 {
     text-align: center;
     margin: 2%;
 }
+
 h2 {
     color:#19A7CE;
     font-family: Roboto, Source Serif Pro, sans-serif;
@@ -45,6 +52,7 @@ h2 {
     padding-bottom: 2%;
     margin: 3%;
 }
+
 h3 {
     background-color: #e7e415;
     color: #F6F1F1;
@@ -55,9 +63,11 @@ h3 {
     padding-top: 6%;
     padding-block: 3%;
 }
+
 img{
     margin: 3%;
 }
+
 footer {
     background-color: #299414;
     color: #ffffff;
