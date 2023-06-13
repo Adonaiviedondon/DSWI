@@ -1,0 +1,61 @@
+.home {
+    background-color: #F6F1F1;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./imagem-css/icone_home.png);
+    background-size: contain;
+    background-position-x: 3px;
+    background-position-y: -1px;
+    background-repeat: no-repeat;
+    margin-left: 1%;
+}
+.missao { 
+    background-color: #F6F1F1;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    background-image: url(./imagem-css/icone_missao.png);
+    background-size: contain;
+    background-position-x: 3px;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+}
+.produtos {
+    background-color: #F6F1F1;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./imagem-css/icone_produto.png);
+    background-size: contain;
+    background-position-x: 3px;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+}
+.servicos {
+    background-color: #F6F1F1;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./imagem-css/icone_servicos.png);
+    background-size: contain;
+    background-position-x: 3px;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+}
+.sobre {
+    background-color: #F6F1F1;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./imagem-css/icone_sobre.png);
+    background-size: contain;
+    background-position-x: 3px;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+}
