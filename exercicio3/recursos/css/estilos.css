@@ -17,22 +17,19 @@ nav a {
     padding-right: 5px;  
 }
 
-body {
-    background-color: #F6F1F1;
-}
+
 
 main {
-    color: #00000000;
+    
     font-family: Roboto, Source Serif Pro, sans-serif;
     font-size: large;
     text-align: justify;
     margin-top: 3%;
     margin-bottom: 3%;
 }
-
-main p {
-    text-indent: 6%;
-    margin: 3%;
+ 
+p{
+    margin: 20px;
 }
 
 h1 {
@@ -54,8 +51,8 @@ h2 {
 }
 
 h3 {
-    background-color: #e7e415;
-    color: #F6F1F1;
+    background-color: #d1cf3c;
+    color: #eee3e3f8;
     font-family: Roboto, Source Serif Pro, sans-serif;
     font-size: x-large;
     text-indent: 6%;
