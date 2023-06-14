@@ -3,5 +3,5 @@
       
 <a href="https://adonaiviedondon.github.io/DSWI/exercicio2/conta.html">exercicio2</a>
       
-<a href="https://adonaiviedondon.github.io/DSWI/exercicio3/Home.html">exercicio3</a>
+<a href="https://adonaiviedondon.github.io/DSWI/exercicio3/home.html">exercicio3</a>
       
